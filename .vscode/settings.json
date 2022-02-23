@@ -1,0 +1,8 @@
+{
+    "logViewer.watch": [
+        {
+            "title": "Odoo",
+            "pattern": "config/odoo-server.log"
+        }
+    ]
+}
